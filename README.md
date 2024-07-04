@@ -41,7 +41,7 @@ A modelagem de dados foi realizada utilizando a ferramenta Microsoft Power BI, i
 -  $Atividades_Legislativa_CG.Vereador(*) - (1)$Lista-Candidatos-Vereador-CAMPINA GRANDE.Nome Urna = muitos para um (*-1)
 
 #### Bases de Dados
-- Atividades_Legislativa
+- Webscraping.Atividades_Legislativa
 - Consulta_cand_2020_PB_TRE
 - Webscraping.Dados_Pessoais
 - Mapeamento ITPL
