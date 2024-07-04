@@ -34,7 +34,7 @@ Foi utilizado apenas o Power BI para o desenvolvimento do Dashboard e uma paleta
 
 A modelagem de dados foi realizada utilizando a ferramenta Microsoft Power BI, integrando diferentes conjuntos de dados sobre a transparência administrativa e operacional das câmaras legislativas municipais. (Imagem - Relacionamentos)
 
-####Relacionamentos
+### Relacionamentos
 - $Atividades_Legislativa_CG.Vereador(1) - (1)$webscraping_cg.Parlamenta_nome = um para um (1-1)
 - $consulta_cand_2020_PB.nm_ue(1) - (1)$Mapeamento ITPL.municipio = um para um (1-1)
 -  $consulta_cand_2020_PB.nm_ue(1) - (1)$Dados_Pessoais_CG.municipio = um para um (1-1)
