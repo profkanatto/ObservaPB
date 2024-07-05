@@ -64,3 +64,6 @@ A modelagem de dados foi realizada utilizando a ferramenta Microsoft Power BI, i
 
 #### ITPL Municipal
 - (Imagem da Tela 4 - Índice de Transparência)
+
+## Link do Painel ObservaPB 
+- https://app.powerbi.com/view?r=eyJrIjoiMGY4YjUzODUtNTljNC00YzdiLWJjNDUtZjY4NDY5ZDA4ZmUxIiwidCI6IjgwM2M3ZTBmLTZkMTAtNGU0ZC04M2E0LTZkNGJmMThiZWM0OSJ9
